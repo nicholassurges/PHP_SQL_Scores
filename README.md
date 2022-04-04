@@ -1,4 +1,4 @@
-# PhpProject1
+# PHP_SQL_Scores
 
 The form collects  first name, last name, score1, score2, score3.
 The PHP file calculates the average  and displays the first name, last name and the average. 
